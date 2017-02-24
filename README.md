@@ -1,5 +1,5 @@
-  # Ayudantia leccion 14
-  # # Pasos ha seguir para subir mi proyecto git
+# Ayudantia leccion 14
+## Pasos ha seguir para subir mi proyecto git
   1. git init
   2. git add
   3. git commit - m "mensaje de lo que se ha realizado en la nueva versión"
